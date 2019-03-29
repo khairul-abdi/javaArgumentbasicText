@@ -41,8 +41,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="589" />
-    <option name="y" value="115" />
+    <option name="x" value="592" />
+    <option name="y" value="77" />
     <option name="width" value="690" />
     <option name="height" value="602" />
   </component>
@@ -65,6 +65,9 @@
         </subPane>
       </pane>
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
